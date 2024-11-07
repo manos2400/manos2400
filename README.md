@@ -1,7 +1,4 @@
 # Hi, I'm Manos! 👋
-
-![Manos's Stats](https://github-readme-stats.vercel.app/api?username=ntua-el20156&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ## 🚀 About Me
 
 - 🔭 I'm currently studying Electrical and Computer Engineering at the National Technical University of Athens
