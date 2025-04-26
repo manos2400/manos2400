@@ -4,7 +4,7 @@
 - 🔭 I'm currently studying Electrical and Computer Engineering at the National Technical University of Athens
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,pnpm,java,c,cpp,linux,docker,git,mysql,postgres,mongodb&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,c,cpp,linux,docker,git,mysql,postgres,mongodb&theme=dark)](https://skillicons.dev)
 
 ## 📬 Get in Touch
 
